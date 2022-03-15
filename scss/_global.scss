@@ -13,6 +13,7 @@ body.no-scroll {
 	display: flex;
 	flex-direction: column;
 	min-height: 100%;
+	overflow-x: hidden;
 }
 
 .main {
